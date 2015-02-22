@@ -1,0 +1,6 @@
+H:\Кодування\KZI_lab_1\KZI_lab_1\bin\Debug\KZI_lab_1.exe.config
+H:\Кодування\KZI_lab_1\KZI_lab_1\bin\Debug\KZI_lab_1.exe
+H:\Кодування\KZI_lab_1\KZI_lab_1\bin\Debug\KZI_lab_1.pdb
+H:\Кодування\KZI_lab_1\KZI_lab_1\obj\Debug\KZI_lab_1.csprojResolveAssemblyReference.cache
+H:\Кодування\KZI_lab_1\KZI_lab_1\obj\Debug\KZI_lab_1.exe
+H:\Кодування\KZI_lab_1\KZI_lab_1\obj\Debug\KZI_lab_1.pdb
